@@ -1,0 +1,182 @@
+### Step 2A
+ramse@LAPTOP-PM87JBIL MINGW64 /c/Users
+$ pwd
+/c/Users
+
+ramse@LAPTOP-PM87JBIL MINGW64 /c/Users
+
+
+### Step 2B
+ramse@LAPTOP-PM87JBIL MINGW64 ~
+$ cd ~/OneDrive/Desktop/
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop
+
+### Step 2C
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop
+$ cd ~/OneDrive/Desktop/unit1-git-practice/
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+
+
+### Step 2D
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ pwd
+/c/Users/ramse/OneDrive/Desktop/unit1-git-practice
+
+
+### Step 2E
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ ls
+my-steps.txt
+
+### Step 2F
+my-steps.txt
+
+
+### Step 2G
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cd ..
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop
+$ cd ..
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive
+
+
+### Step 2H
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive
+$ pwd
+/c/Users/ramse/OneDrive
+
+### Step 2I
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive
+$ ls -a
+ ./                                      Desktop/               Pictures/
+ ../                                     Documentos/            desktop.ini
+ .849C9593-D756-4E56-8D6E-42412F2A707B  'Personal Vault.lnk'*
+
+
+### Step 2J
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive
+$ cd ~
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~
+
+
+### Step 2K
+ramse@LAPTOP-PM87JBIL MINGW64 ~
+$ cd ~/OneDrive/Desktop/unit1-git-practice/
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+
+
+### Step 3A
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir veggies
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir meats
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir desserts
+
+
+### Step 3B
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv desserts sweets
+
+### Step 3C
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir protiens
+
+### Step 3D
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv meats protiens
+
+### Step 3E
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cd veggies
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ touch carrot.txt
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ touch pea.txt
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+
+
+### Step 3F
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice/veggies
+$ cd ..
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cd sweets
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+$ touch cookie.txt
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+
+### Step 3G
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+$ mv cookie.txt donut.txt
+
+### Step 3H
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice/sweets
+$ cd ..
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ touch thing.txt
+### Step 3I
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cp thing.txt tofu.txt
+
+### Step 3J
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv tofu.txt proteins
+
+
+### Step 3K
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cp thing.txt crab.txt
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mv crab.txt proteins/meats
+
+
+
+### Step 3L
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ rm thing.txt
+
+
+
+### Step 3M
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ cp -r veggies plants
+
+### Step 3N
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ mkdir drinks
+
+ramse@LAPTOP-PM87JBIL MINGW64 ~/OneDrive/Desktop/unit1-git-practice
+$ rm -r drinks
+
+
+
+
+### Step 4
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
